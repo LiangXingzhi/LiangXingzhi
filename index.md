@@ -1,5 +1,10 @@
 [a.md](a.md)
-## Welcome to GitHub Pages
+# What Why How
+
+## 立一个小目标
+- What：半年之内学习黄能富老师操作系统3遍，5月14日开始，12月14日截止
+- Why：操作系统是计算机的底层原理，不了解操作系统就不能悟透java编程的多线程，nio等背后的原理，只有懂了操作系统，才能更上一个台阶
+- How：基本是2个月一个周期去学习，每个周期内遵循记忆曲线，学习复习结合，每周输出2次以上学习成果 
 
 You can use the [editor on GitHub](https://github.com/LiangXingzhi/LiangXingzhi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
